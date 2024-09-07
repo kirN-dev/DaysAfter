@@ -1,5 +1,9 @@
 # Days After
 
+[![Unity_MWDiarWpFQ](C:\Users\KirN\Documents\ShareX\Screenshots\2024-09\Unity_MWDiarWpFQ.gif)]
+
+
+
 Тестовое задание
 Сделать прототип 3D игры:
 - Есть 2 или более объектов которыми управляет игрок
