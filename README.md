@@ -1,6 +1,6 @@
 # Days After
 
-[![Unity_MWDiarWpFQ](C:\Users\KirN\Documents\ShareX\Screenshots\2024-09\Unity_MWDiarWpFQ.gif)]
+[![Unity_MWDiarWpFQ](Unity_MWDiarWpFQ.gif)]
 
 
 
